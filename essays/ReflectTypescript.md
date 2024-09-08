@@ -24,9 +24,12 @@ When going through the tutorials, it made me realize that all of these languages
 
 I want to transition this essay into talking about our “Workout of the Day”, or WOD for short. As of right now, we have done 2 practice ones at home, 1 practice group one in class, and we had our first actual one today. The two practice ones at home were not too bad. The very first one, “projectEulerOne” was fairly simplistic where I approached it by using a for loop and an if and if else statement. I was able to complete this one within the Rx range. While typing this one out I felt that it was pretty similar to the other languages that I have been coding in with the exception of the use of “let”. You can refer to Figure 1 below for a snapshot of my “projectEurlerOne” code. Then in class, on the day of the practice group WOD, I ended up coming late. However, I started working on it right away but unlike the other groups, I didn’t have a partner. Luckily enough it wasn’t too bad. This was the temperature conversion one where we either converted it from Fahrenheit to Celcius or flipped it. The thing that stuck out to me about this one was the use of assigning the type of variable we wanted to use and how to assign it using semicolons. I felt that this one was good practice for that and understanding we can also define the type of return value we want back. Figure 2 below contains a snapshot of my code. For the second practice WOD I took it 3 times. For the first one I used a double for loop to check each letter within the word, I completed it but got in the Sd section. On the second attempt, I used the same method but did it a lot faster and landed in the Rx. The only thing I was skeptical about at first was being able to traverse the string as if it were an array, turns out you can! Lastly, after watching the video, I decided to try it the way the professor did and got in the Rx. That was my first time implementing a map, “.get”, and “.set”. These code segments can be seen in Figures 3, 4, & 5 shown below. It was good practice! Lastly, for the actual WOD today I found it fairly easy and just used an if, multiple if else statements, and an else statement. I then concatenated the results in the return as a string. This can be seen in Figures 6 & 7.
 
+
+
 <img src="../img/Fig1.png" width="199.68px" height="198.72px"> <img src="../img/Fig2.png" width="389.76px" height="168.96px"> 
 
 Figures 1 & 2: On the left is my code for the first practice WOD and on the right is my code for the practice “group” WOD
+
 
 <img src="../img/fig3.png" width="159.36px" height="151.68px"> <img src="../img/fig4.png" width="148.8px" height="99.84px"><img src="../img/fig5.png" width="300.48px" height="103.68px">
 
@@ -36,6 +39,8 @@ WOD respectively
 
 LEAVE BLANK FOR NOW JUST IN CASE
 Figures 6 & 7: Show my code for our first actual WOD
+
+
 
 The practice I got in using the practice WODs at home did help me. Going through the Typescript tutorial was good but I didn’t completely understand things until I put the actual work in and implemented it myself. I think the WODs did exactly that for me. I notice that I actually kind of enjoy pressure situations and the goal of beating something(trying to get into the Rx time frame); I feel that it turns a certain part of my brain on. That being said, so far I do like this style of learning. The timer adds the pressure and makes it more fun for me while still getting the reps in. I also feel that it’s good to repetitiously practice as you said in class. Though it is only the first couple of weeks, I do feel that these WODs will be a key component for learning the language.
 
