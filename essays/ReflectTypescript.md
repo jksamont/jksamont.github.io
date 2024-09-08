@@ -13,7 +13,7 @@ labels:
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
-
+<img src="Fig 1.png" width="300px" height="200px">
 ## Background
 	
 Typescript/Javascript will be the fourth language I am being exposed to right after C, C++, and Python. Being that I am studying Computer Engineering, the past two years have really been focused around mostly on the use of C for our assignments and a decent amount of C++ during my second year. The only time I used Python would be for my EE 160 which was my “Intro to Programming for Engineers”. Before taking this class I don’t even believe I looked at Javascript/Typescript code, however, I heard lots of good things about it so I was eager to learn to use it in this class. But now that I have started to learn the language, what do I think about it?
