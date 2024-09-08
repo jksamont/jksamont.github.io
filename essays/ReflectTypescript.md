@@ -12,8 +12,6 @@ labels:
   - Computer Science
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
-
 ## Background
 	
 Typescript/Javascript will be the fourth language I am being exposed to right after C, C++, and Python. Being that I am studying Computer Engineering, the past two years have really been focused around mostly on the use of C for our assignments and a decent amount of C++ during my second year. The only time I used Python would be for my EE 160 which was my “Intro to Programming for Engineers”. Before taking this class I don’t even believe I looked at Javascript/Typescript code, however, I heard lots of good things about it so I was eager to learn to use it in this class. But now that I have started to learn the language, what do I think about it?
@@ -30,15 +28,13 @@ I want to transition this essay into talking about our “Workout of the Day”,
 
 Figures 1 & 2: On the left is my code for the first practice WOD and on the right is my code for the practice “group” WOD
 
-
-
-
+<img src="../img/fig3.png" width="159.36px" height="151.68px"> <img src="../img/fig4.png" width="148.8px" height="99.84px"><img src="../img/fig5.png" width="300.48px" height="103.68px">
 
 Figures 3, 4, & 5: The three are images of my attempts for the second practice 
 WOD respectively
 
 
-
+LEAVE BLANK FOR NOW JUST IN CASE
 Figures 6 & 7: Show my code for our first actual WOD
 
 The practice I got in using the practice WODs at home did help me. Going through the Typescript tutorial was good but I didn’t completely understand things until I put the actual work in and implemented it myself. I think the WODs did exactly that for me. I notice that I actually kind of enjoy pressure situations and the goal of beating something(trying to get into the Rx time frame); I feel that it turns a certain part of my brain on. That being said, so far I do like this style of learning. The timer adds the pressure and makes it more fun for me while still getting the reps in. I also feel that it’s good to repetitiously practice as you said in class. Though it is only the first couple of weeks, I do feel that these WODs will be a key component for learning the language.
