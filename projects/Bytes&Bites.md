@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/IMG_2467.jpg
 title: "Bytes & Bites: Bytes & Flights"
 date: 2024-04-23
 published: true
