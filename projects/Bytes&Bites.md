@@ -12,7 +12,7 @@ labels:
   - Teamwork
   - Leadership
   - C
-summary: "My colead and I teamed up with SCADA Lab's, Professor Mark Nelson, to create an interactive event for Engineering students by having them track airplanes using Raspberry Pis. This event was intended to teach Engineering students about the power of Computer Engineering, give students an opportunity to use resources they may not typically use in their major, and improve relationships through the schools's Engineering community."
+summary: "My colead and I teamed up with SCADA Lab's, Professor Mark Nelson, to create an interactive event for Engineering students by having them track airplanes using Raspberry Pis and teach them more about Computer Engineering."
 ---
 
 As an Engineering Student Ambassador, we assist the College of Engineering to increase recruitment and upliftment of their students through various events. Some of these events include outreach to students K-12, tours of the College of Engineering at UHM, student, facaulty, alumni, and industry partner events, etc. I personally co-lead a string of events called "Bytes & Bites" which essentially are technical workshops aimed to expose engineering students to campus resources and nurture student connections across all grade levels. Each event has a Engineering discipline theme, for "Bytes & Bites x SCADA LAB: Bytes & Flights", we teamed up with Professor Mark Nelson to educate the students about Computer Engineering.
