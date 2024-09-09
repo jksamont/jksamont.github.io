@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://github.com/jksamont.png",
     "email": "jksamont@hawaii.edu",
-    "phone": "808-333-4444",
+    "phone": "",
     "website": "https://jksamont.github.io",
     "summary": "I am studying for a B.S. in Computer Engineering at the University of Hawaii at Mānoa. I expect to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
