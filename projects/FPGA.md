@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/againBasysBoard.png
+image: img/newalu.png
 title: "Implementing an ALU on a FPGA Board"
 date: 2023-10-30
 published: true
