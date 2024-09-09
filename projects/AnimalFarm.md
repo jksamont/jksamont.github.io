@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/farm.gif
+image: img/newfarm.jpg
 title: "Animal Farm"
 date: 2023-05-05
 published: true
