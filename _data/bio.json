@@ -23,89 +23,105 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Python"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Visual Studio Code", "Git/GitHub"]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Spring, 2025)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2021-08-23",
       "endDate": "Present",
-      "courses": [
-      ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "UH Manoa College of Engineering",
+      "position": "Engineering Student Ambassador",
+      "website": "https://www.eng.hawaii.edu/students/current-students/student-programs/esa/",
+      "startDate": "2023-04-20",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Undergraduate Student Ambassador for the College of Engineering at UH Mānoa",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Plan and create events for the University of Hawaii College of Engineering",
+        "Outreach to various locations/high schools to share about our experiences as engineering students",
+        "Help to facilitate programs for current and possible future engineering students"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Waikiki Beach Services",
+      "position": "Pool Attendant",
+      "website": "https://www.waikikibeachservices.com/",
+      "startDate": "2021-06-10",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Assist hotel guests with pool needs",
+        "Cabana set up for customers",
+        "Ensures pool safety",
+        "Sales transactions (rentals: cabanas, surfboards, lessons, etc.)"
+      ]
+    },
+    {
+      "company": "P.F. Chang's",
+      "position": "Server Assistant",
+      "website": "",
+      "startDate": "2024-06-20",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Interact with restaurant guest",
+        "Buss tables",
+        "Expo food",
+        "Run meals out to guest"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Smart Campus Energy Lab",
+      "website": "https://manoa.hawaii.edu/uh-vip/project/smart-campus-energy-lab-scel/",
+      "position": "Firmware Team Member",
+      "startDate": "2024-01-09",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Maintain firmware for deployed \"Weather Boxes\"",
+        "Assists hardware teams with debugging of software issues",
+        "Updates production code for storage infrastructure",
+        "Upkeeps version control through Git and Github"
       ]
     },
     {
-      "organization": "",
+      "organization": "Eta Kappa Nu (HKN)",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "position": "Vice President",
+      "startDate": "2024-08-26",
+      "endDate": "present",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Started as a pledge in August 2023: Participated in community service events, tutoring fellow undergraduate engineering students, and help to host fundraisers",
+        "Currently will be planning the Induction Ceremony for this years pledges, managing Blueprints, planning Holmescoming event, assisting the President and club"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Provost Scholarship",
+      "date": "2021-Present",
+      "awarder": "University of Hawaii at Mānoa",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who are \"recognized high-achieving students that demonstrate that they will make a positive impact on the UH Mānoa community.\" These students must maintain a 3.0 GPA every semester and remain a full-time student at Mānoa"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Dean's List",
+      "date": "2021-Present",
+      "awarder": "University of Hawaii at Mānoa",
+      "summary": "Award given to full-time students that earn a 3.5 semester GPA or higher. Missed Fall 2023 semester."
     }
   ],
   "references": [
