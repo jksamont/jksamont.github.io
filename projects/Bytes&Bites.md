@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/newproj1.jpg
+image: img/tryproj1.jpg
 title: "Bytes & Bites: Bytes & Flights"
 date: 2024-04-23
 published: true
