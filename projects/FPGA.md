@@ -9,6 +9,7 @@ labels:
   - FPGA
   - Computer Engineering
   - Vivado
+  - SystemVerilog
   - Teamwork
 
 summary: "I worked alongside 2 other Computer Engineering students to design, implement, and test an Arithmetic Logic Unit (ALU) circuit on a Digilent Basys3 FPGA Development Board using Vivado and System Verilog"
