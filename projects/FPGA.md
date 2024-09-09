@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/foralu.png
+image: img/foralu.jpg
 title: "Implementing an ALU on a FPGA Board"
 date: 2023-10-30
 published: true
