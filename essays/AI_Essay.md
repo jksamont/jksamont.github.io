@@ -11,7 +11,7 @@ labels:
   - Solutions
 ---
 
-<img src="../img/design_patterns.webp">
+<img src="../img/AI_pic.webp">
 
 ## I. Introduction
 
