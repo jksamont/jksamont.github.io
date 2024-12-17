@@ -17,7 +17,7 @@ As I reflect back on this past semester taking ICS 314, I was thrown into the wo
 
 ## II. Agile Project Management
 
-<img src="../img/teamwork.jpg">
+<img src="../img/teamwork.jpg" style="height:200px;">
 
   Agile project management refers to the management of a project through the approach of incremental steps towards the completion of a project. This type of management promotes speed and adaptability towards the project. Essentially, while your still aiming for the end goal, the iteration allows for the project to adjust oppose to following a linear path. Some key characteristics of a successfully managed agile project is there is a task for you to work on, you know what task to work on, when done with a task you know which one to go to next, rarely blocked waiting for someone else to complete a task, etc.
   
@@ -27,7 +27,7 @@ As I reflect back on this past semester taking ICS 314, I was thrown into the wo
 
 ## III. Ethics in Software Engineering
 
-<img src="../img/ethics.jpg">
+<img src="../img/ethics.jpg" style="height:200px;">
 
   As a software engineer I would say a lot of them are at the forefront of technology and innovation; with that comes a great amount of power. It is there responsibility to essentially make the analysis, specification, design, development, testing and maintenance of software a beneficial and respected profession. Following the commitment to the health, safety, and welfare of teh public by following eight principles; public, clieant and employer, product, judgement, management, profession, colleagues, and self. These 8 principles are put in place to ensure that the software engineer is acting ethically and working to help improve society. 
   
