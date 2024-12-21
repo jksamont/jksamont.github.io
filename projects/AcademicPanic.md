@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/foralu.jpg
+image: img/AP_PanicBoard.png
 title: "Academic Panic"
 date: 2024-12-20
 published: true
@@ -12,7 +12,7 @@ labels:
   - Vercel
   - Github
 
-summary: "I worked alongside 3 other Engineering students to create and implement an online application that strives to connect UH Manoa Students with their peers to engage in more effective and collaborative learning"
+summary: "I worked alongside 3 other Engineering students to create and implement an online application that strives to connect UH Manoa Students with their peers to engage in more effective and collaborative learning."
 ---
 
 ### Academic Panic Overview
