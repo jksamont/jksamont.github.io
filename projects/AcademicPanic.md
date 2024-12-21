@@ -15,9 +15,6 @@ labels:
 summary: "I worked alongside 3 other Engineering students to create and implement an online application that strives to connect UH Manoa Students with their peers to engage in more effective and collaborative learning"
 ---
 
-
-<img src="../img/ALUcircuit.png" width = "475px">
-
 ### Academic Panic Overview
 
   Academic Panic is a web application for UH Manoa students to connect with their peers to engage in more effective and collaborative learning with a study session planning system, course review and rating system, and a “friends” system to connect students without disclosing sensitive information. The goals of the project are as follows; provide UH Manoa students with a collaborative study/tutoring resource, encourage networking and community amongst UH Manoa students, and provide a platform for students to share honest (yet respectful) opinions about courses that will be visible by all users.
@@ -36,7 +33,7 @@ summary: "I worked alongside 3 other Engineering students to create and implemen
   Here are a few screenshots of some of our pages. The first is the landing page, second is the "Panicker"'s Panic Board, and third is the course page for the "Panicker"
 
 
-<img src="../img/image4.jpeg" width = "475px">
+<img src="../img/AP_Landing2.png" width = "475px"> <img src="../img/AP_PanicBoard.png" width = "475px"><img src="../img/AP_ListCourses.png" width = "475px">
 
 ### Project links
 - [Project Home Page](https://academic-panic.github.io/)
