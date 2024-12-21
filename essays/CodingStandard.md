@@ -13,7 +13,7 @@ labels:
 
 ## Introduction
 
-While many coding languages are fairly similar to learn and implement, the main differences lie in minuscule things such as spacing, brackets, and just formatting in general. This can be thought of as “Coding Standards”. While I understand why people don’t really care for the nitty-gritty of the formatting for the programming language, at times I definitely don’t; I can understand the benefits that come along with implementing “Coding Standards”. These past couple of assignments I got first-hand experience with executing the correct coding standards through the use of VSCode and ESLint.
+While many coding languages are fairly similar to learn and implement, the main differences lie in minuscule things such as spacing, brackets, and just formatting in general. This can be thought of as “Coding Standards”. While I understand why people don’t really care for the nitty-gritty of the formatting for the programming language, at times I definitely don’t; I can understand the benefits that come along with implementing “Coding Standards”. Through my recent assignments, I gained first-hand experience with executing the correct coding standards through the use of VSCode and ESLint.
 
 ## Initial Impression
 	
