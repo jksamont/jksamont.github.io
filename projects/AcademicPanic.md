@@ -33,12 +33,15 @@ summary: "I worked alongside 3 other Engineering students to create and implemen
   Here are a few screenshots of some of our pages. The first is the landing page, second is the "Panicker"'s Panic Board, and third is the course page for the "Panicker"
 
 Landing Page
+
 <img src="../img/AP_Landing2.png" width = "475px">
 
 Panic Board
+
 <img src="../img/AP_PanicBoard.png" width = "475px">
 
 List Courses
+
 <img src="../img/AP_ListCourses.png" width = "475px">
 
 ### Project links
