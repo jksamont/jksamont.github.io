@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/homepage.jpg
+image: img/homepage2.jpg
 title: "Academic Panic"
 date: 2024-12-20
 published: true
