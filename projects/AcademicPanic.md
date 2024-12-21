@@ -2,17 +2,17 @@
 layout: project
 type: project
 image: img/foralu.jpg
-title: "Implementing an ALU on a FPGA Board"
-date: 2023-10-30
+title: "Academic Panic"
+date: 2024-12-20
 published: true
 labels:
-  - FPGA
-  - Computer Engineering
-  - Vivado
-  - SystemVerilog
-  - Teamwork
+  - HTML
+  - Bootstrap 5
+  - NextJS
+  - Vercel
+  - Github
 
-summary: "I worked alongside 2 other Computer Engineering students to design, implement, and test an Arithmetic Logic Unit (ALU) circuit on a Digilent Basys3 FPGA Development Board using Vivado and System Verilog"
+summary: "I worked alongside 3 other Engineering students to create and implement an online application that design, implement, and test an Arithmetic Logic Unit (ALU) circuit on a Digilent Basys3 FPGA Development Board using Vivado and System Verilog"
 ---
 
 
